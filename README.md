@@ -1,6 +1,4 @@
 # Portia Ansah's Profile
-This repo describes the owner of the repository. Oh yes! :smile: That is me. Let us take a look at what we have here.
-
 💁‍♀️: Hi there! I am Portia Ansah</br>
 :heart: I love everything technology :computer:</br>
 :sunglasses: I am currently on a developer learning spree 🙂:</br>
