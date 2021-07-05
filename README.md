@@ -1,11 +1,11 @@
 # Portia Ansah's Profile
 This repo describes the owner of the repository. Oh yes! :smile: That is me. Let us take a look at what we have here.
 
-:bowtie: Yes! I am Portia Ansah</br>
-:heart: I love everything :computer: :loop: :rocket: technology</br>
-:sunglasses: I am currently on a developer learning spree :laughing:</br>
-:earth_africa: :earth_asia: :earth_americas: I look forward to collaborating tireslessly (Just say hi). </br>
-:sparkles: Fun fact: I love to design (UI/UX). :notes:</br>
+💁‍♀️: Hi there! I am Portia Ansah</br>
+:heart: I love everything technology :computer:</br>
+:sunglasses: I am currently on a developer learning spree 🙂:</br>
+:earth_africa: :earth_asia: :earth_americas: I look forward to collaborating(Just say hi 😘). </br>
+:sparkles: Fun fact: I love to design (UI/UX). 🎨:</br>
 
 
 [![Portia's github stats](https://github-readme-stats.vercel.app/api?username=PAnsah98&show_icons=true&theme=radical&count_private=true)</br>
