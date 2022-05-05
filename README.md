@@ -3,7 +3,7 @@
 :heart: I love everything technology :computer:</br>
 :sunglasses: I am currently a trainee in data analysis 🙂:</br>
 :earth_africa: :earth_asia: :earth_americas: I look forward to collaborating(Just say hi 😘). </br>
-:sparkles: Fun fact: I love to design (UI/UX) </br>and I have some experience in front-end Development🎨:</br>
+:sparkles: Fun fact: I love to design (UI/UX)🎨 </br>I also have some experience in front-end Development💻</br>
 
 
 [![Portia's github stats](https://github-readme-stats.vercel.app/api?username=PAnsah98&show_icons=true&theme=radical&count_private=true)</br>
