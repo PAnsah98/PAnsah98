@@ -1,7 +1,7 @@
 # Portia Ansah's Profile
 💁‍♀️: Hi there! I am Portia Ansah</br>
 :heart: I love everything technology :computer:</br>
-:sunglasses: I am currently a trainee in data analysis 🙂:</br>
+:sunglasses: I am currently a trainee in data analysis 🙂</br>
 :earth_africa: :earth_asia: :earth_americas: I look forward to collaborating(Just say hi 😘). </br>
 :sparkles: Fun fact: I love to design (UI/UX)🎨 </br>I also have some experience in front-end Development💻</br>
 
